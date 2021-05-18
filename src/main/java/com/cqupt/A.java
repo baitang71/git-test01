@@ -12,4 +12,3 @@ class B{
         System.out.print("B");
     }
 }
-
